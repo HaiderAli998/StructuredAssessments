@@ -1,0 +1,10 @@
+{
+  "patient_id": "583ff640-c51f-467e-932d-787235840c84",
+  "first_name": "Sandro",
+  "last_name": "Colon",
+  "date_of_birth": "1972-04-27",
+  "insurance_id": "74143012700",
+  "admission_date": "2025-03-11",
+  "discharge_date": null,
+  "current_medications": "Zyprexa Zydis 10 mg BID for disorganization and loose associations; Depakote 1000 mg BID for agitation and impulsivity; desmopressin 0.1 mg PO QHS; acetaminophen 650 mg Q4H PRN for pain; delirium precautions; polyethylene glycol 17 g QD; sennosides 8.6 mg QHS; amlodipine 10 mg QD"
+}
